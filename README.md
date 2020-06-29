@@ -14,3 +14,4 @@ dsfsdfsdfds
 sdfsdf
 ds
 fsd
+Kiedy zacznie działać ?
