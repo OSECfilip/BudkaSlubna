@@ -15,3 +15,8 @@ sdfsdf
 ds
 fsd
 Kiedy zacznie działać ?
+skasowałem 
+
+A potem to ? 
+
+i później skasuje to pierwsze 
