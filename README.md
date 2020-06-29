@@ -17,6 +17,7 @@ fsd
 Kiedy zacznie działać ?
 skasowałem 
 
-A potem to ? 
+A teraz to skasowałem
+
 
 i później skasuje to pierwsze 
