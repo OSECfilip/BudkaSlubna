@@ -282,7 +282,7 @@ def CapturePicture():
     for x in range(3, -1, -1):
                 if x == 0:                        
                         Numeral = ""
-                        Message = "Przygotuj sie!! "
+                        Message = "Przygotuj sie!!! "
                 else:                        
                         Numeral = str(x)
                         Message = ""                
