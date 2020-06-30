@@ -1,3 +1,4 @@
+#zaczynamy
 import picamera
 import pygame
 import time
