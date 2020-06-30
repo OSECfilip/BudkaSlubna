@@ -1,4 +1,4 @@
-#zaczynamy
+#zaczynamy program
 import picamera
 import pygame
 import time
