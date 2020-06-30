@@ -1,4 +1,4 @@
-#zaczynamy program
+#zaczynamy program i testujemy GITa
 import picamera
 import pygame
 import time
