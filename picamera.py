@@ -380,7 +380,7 @@ def TakePictures():
                                 if printqueuelength > 1:
                                         ShowPicture('/home/pi/Desktop/tempprint.png',3)
                                         conn.enablePrinter(printer_name)
-                                        Message = "Nie można wydrukować"                
+                                        Message = "Nie mozna wydrukowac"                
                                         UpdateDisplay()
                                         time.sleep(1)
                                 else:
