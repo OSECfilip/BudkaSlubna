@@ -279,7 +279,7 @@ def CapturePicture():
     camera.start_preview()
     BackgroundColor = "black"
 
-    for x in range(3, -1, -1):
+    for x in range(4, -1, -1):
                 if x == 0:                        
                         Numeral = ""
                         Message = "Przygotuj sie!!! "
@@ -346,7 +346,7 @@ def TakePictures():
         Final_Image_Name = os.path.join(imagefolder, "Final_" + str(TotalImageCount)+"_"+str(ts) + ".jpg")
 
        # Save it to the usb drive
-        #bgimage.save(Final_Image_Name)
+        # bgimage.save(Final_Image_Name)
         # Save a temp file, its faster to print from the pi than usb
         bgimage.save('/home/pi/Desktop/tempprint.png')
         ShowPicture('/home/pi/Desktop/tempprint.png',3)
